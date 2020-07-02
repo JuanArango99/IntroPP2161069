@@ -1,0 +1,14 @@
+01 July 2020 06:16:30 PM
+
+OMP_JULIA_SET:
+  C version.
+  Plot a version of the Julia set using parallel programming for Z(k+1)=Z(k)^2-0.8+0.156i
+
+TGA_WRITE:
+  Graphics data saved as 'julia_set.tga'
+
+OMP_JULIA_SET:
+  Normal end of execution.
+
+  The main parallelized function  was executed using 16 threads, in the time of 0.0691089 seconds 
+01 July 2020 06:16:30 PM
