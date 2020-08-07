@@ -1,0 +1,22 @@
+07 August 2020 03:55:18 PM
+
+JULIA_SET Using MPI:
+  C version.
+  Plot a version of the Julia set for Z(k+1)=Z(k)^2-0.8+0.156i
+
+TGA_WRITE:
+  Graphics data saved as 'julia_set.tga'
+Tiempo de ejecución = 0.219187
+
+TGA_WRITE:
+  Graphics data saved as 'julia_set.tga'
+
+JULIA_SET:
+  Normal end of execution.
+
+07 August 2020 03:55:18 PM
+
+JULIA_SET:
+  Normal end of execution.
+
+07 August 2020 03:55:18 PM
