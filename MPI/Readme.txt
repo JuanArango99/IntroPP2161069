@@ -24,3 +24,6 @@ Como salida textual se tiene la descripción del empleamiento de programación p
 
 
 Además de la correcta ejecución del programa, el archivo imágen generado y el momento en tiempo real de la ejecución.
+
+
+El tiempo de ejecución empleando OMP fue de 0.0691089 seconds, mientras que MPI toma 0.219187 seconds, casi similar al programa original sin paralelizar.
