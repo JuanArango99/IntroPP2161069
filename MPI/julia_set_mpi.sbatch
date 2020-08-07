@@ -17,4 +17,4 @@ export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 # Run the process with mpirun. Note that the -n option is not required
 # in this case; mpirun will automatically determine how many processes
 # to run from the Slurm settings.
-mpirun ./mpi_julia
+mpirun -np 2 ./mpi_julia
